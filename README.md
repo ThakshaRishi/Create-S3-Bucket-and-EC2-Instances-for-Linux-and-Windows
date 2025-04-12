@@ -46,11 +46,27 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223100058
 ### NAME: THAKSHA RISHI
- 
- Include your Screenshots Here.
+
+S3 BUCKET:
+
+
+![image](https://github.com/user-attachments/assets/0f6be835-d996-4f83-928f-c730d4e3fd68)
+
+![image](https://github.com/user-attachments/assets/7284eaff-634b-4b9d-a8a9-bd6ece0e9ea9)
+
+![image](https://github.com/user-attachments/assets/8c0958a9-55ac-4e1b-88da-981d0f934b68)
+
+
+EC2 INSTANCE:
+
+![image](https://github.com/user-attachments/assets/3f752d29-e74d-4728-87eb-b533355a913f)
+
+![image](https://github.com/user-attachments/assets/853b5bb4-fd6f-4380-8743-3b3ab8f36270)
+
+
 ## RESULT
  
-
+Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
   
 
 
