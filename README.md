@@ -49,9 +49,6 @@ Include the commands used in the Experiment.
 
 S3 BUCKET:
 
-
-![image](https://github.com/user-attachments/assets/0f6be835-d996-4f83-928f-c730d4e3fd68)
-
 ![image](https://github.com/user-attachments/assets/7284eaff-634b-4b9d-a8a9-bd6ece0e9ea9)
 
 ![image](https://github.com/user-attachments/assets/8c0958a9-55ac-4e1b-88da-981d0f934b68)
